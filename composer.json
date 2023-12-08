@@ -4,10 +4,10 @@
     "description": "RPC Message Contracts",
     "license": "MIT",
     "keywords": ["RPC", "contracts", "message", "api", "low-level", "interfaces"],
-    "homepage": "https://github.com/phplrt",
+    "homepage": "https://github.com/php-lsp",
     "support": {
-        "issues": "https://github.com/phplrt/phplrt/issues",
-        "source": "https://github.com/phplrt/language-server"
+        "issues": "https://github.com/php-lsp/rpc-message-contracts/issues",
+        "source": "https://github.com/php-lsp/rpc-message-contracts"
     },
     "authors": [
         {
